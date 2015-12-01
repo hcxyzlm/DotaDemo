@@ -1,0 +1,50 @@
+[
+    {
+        "name": "yemanshouren",
+        "type": 1,
+        "life": 100,
+        "attack": 10,
+        "attackSpeed": 2,
+        "power": 100
+    },
+    {
+        "name": "quanjiniao",
+        "type": 1,
+        "life": 100,
+        "attack": 15,
+        "attackSpeed": 2,
+        "power": 100
+    },
+    {
+        "name": "dayanguai",
+        "type": 2,
+        "life": 100,
+        "attack": 10,
+        "attackSpeed": 2,
+        "power": 100
+    },
+    {
+        "name": "mazutu",
+        "type": 2,
+        "life": 100,
+        "attack": 10,
+        "attackSpeed": 2,
+        "power": 100
+    },
+    {
+        "name": "xiaoemo",
+        "type": 3,
+        "life": 100,
+        "attack": 10,
+        "attackSpeed": 2,
+        "power": 100
+    },
+    {
+        "name": "jielingqiushi",
+        "type": 3,
+        "life": 100,
+        "attack": 10,
+        "attackSpeed": 2,
+        "power": 100
+    }
+]

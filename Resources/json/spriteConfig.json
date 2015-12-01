@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "yemanshouren",
+        "type": 1,
+        "life": 100,
+        "attack": 15,
+        "attackSpeed": 2.5,
+        "power": 100,
+        "magicGroup": [
+            {
+                "magic1": 0,
+                "magic2": 8
+            }
+        ],
+        "stateNum": [
+            {
+                "idleNum": 1,
+                "runNum": 6,
+                "attackNum": 12,
+                "hurtNum": 1,
+                "deadNum": 6
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "quanjiniao",
+        "type": 2,
+        "life": 100,
+        "attack": 18,
+        "attackSpeed": 5.2,
+        "power": 100,
+        "magicGroup": [
+            {
+                "magic1": 9,
+                "magic2": 3
+            }
+        ],
+        "stateNum": [
+            {
+                "idleNum": 1,
+                "runNum": 6,
+                "attackNum": 10,
+                "hurtNum": 1,
+                "deadNum": 3
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "duyanguai",
+        "type": 3,
+        "life": 100,
+        "attack": 10,
+        "attackSpeed": 6.3,
+        "power": 100,
+        "magicGroup": [
+            {
+                "magic1": 9,
+                "magic2": 10
+            }
+        ],
+        "stateNum": [
+            {
+                "idleNum": 1,
+                "runNum": 8,
+                "attackNum": 12,
+                "hurtNum": 1,
+                "deadNum": 10
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "manzutu",
+        "type": 1,
+        "life": 100,
+        "attack": 13,
+        "attackSpeed": 3.1,
+        "power": 100,
+        "magicGroup": [
+            {
+                "magic1": 9,
+                "magic2": 3
+            }
+        ],
+        "stateNum": [
+            {
+                "idleNum": 1,
+                "runNum": 6,
+                "attackNum": 6,
+                "hurtNum": 1,
+                "deadNum": 6
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "xiaoemo",
+        "type": 2,
+        "life": 100,
+        "attack": 15,
+        "attackSpeed": 6.3,
+        "power": 100,
+        "magicGroup": [
+            {
+                "magic1": 5,
+                "magic2": 1
+            }
+        ],
+        "stateNum": [
+            {
+                "idleNum": 1,
+                "runNum": 6,
+                "attackNum": 10,
+                "hurtNum": 1,
+                "deadNum": 12
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "jielingqishi",
+        "type": 3,
+        "life": 100,
+        "attack": 18,
+        "attackSpeed": 7.5,
+        "power": 100,
+        "magicGroup": [
+            {
+                "magic1": 5,
+                "magic2": 4
+            }
+        ],
+        "stateNum": [
+            {
+                "idleNum": 1,
+                "runNum": 2,
+                "attackNum": 6,
+                "hurtNum": 1,
+                "deadNum": 9
+            }
+        ]
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "fireblast",
+        "count": 10
+    },
+    {
+        "id": 2,
+        "name": "burn",
+        "count": 6
+    },
+    {
+        "id": 3,
+        "name": "icepiton",
+        "count": 8
+    },
+    {
+        "id": 4,
+        "name": "shocked",
+        "count": 4
+    },
+    {
+        "id": 5,
+        "name": "firedevil",
+        "count": 6
+    },
+    {
+        "id": 6,
+        "name": "lightstrike",
+        "count": 6
+    },
+    {
+        "id": 7,
+        "name": "bossfire",
+        "count": 4
+    },
+    {
+        "id": 8,
+        "name": "firedevilblast",
+        "count": 6
+    },
+    {
+        "id": 9,
+        "name": "fireball",
+        "count": 4
+    },
+    {
+        "id": 10,
+        "name": "bossstore",
+        "count": 5
+    },
+    {
+        "id": 11,
+        "name": "magicring",
+        "count": 1
+    }
+]
